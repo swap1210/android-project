@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="htextsize">23dip</dimen>
+    <dimen name="textsize">21dip</dimen>
+    <dimen name="laypad">22dip</dimen>
+    <dimen name="curco">130sp</dimen>
+    <dimen name="cross">100dip</dimen>
+    
+    
+</resources>

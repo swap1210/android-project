@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="loc">#cce8ffee</color>
+    <color name="locbod">#000000</color>
+    <color name="butcol">#e0e0e0</color>
+    <color name="warn">#ff0000</color>
+</resources>
